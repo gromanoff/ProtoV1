@@ -1,4 +1,4 @@
-module protos
+module github.com/gromanoff/ProtoV1
 
 go 1.22.5
 
